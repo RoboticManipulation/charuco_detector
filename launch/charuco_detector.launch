@@ -6,7 +6,7 @@
 	<arg name="number_of_squares_in_x" default="4" />
 	<arg name="number_of_squares_in_y" default="4" />
 	<arg name="number_of_markers" default="8" />
-	<arg name="number_of_bits_for_markers_sides" default="4" />
+	<arg name="number_of_bits_for_markers_sides" default="1" />
 	<!-- DICT_4X4_250 = 2 see: https://docs.opencv.org/4.x/d9/d6a/group__aruco.html#gac84398a9ed9dd01306592dd616c2c975 -->
 	<arg name="dictionary_id" default="2" />
 
